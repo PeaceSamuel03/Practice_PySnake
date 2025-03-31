@@ -45,7 +45,7 @@ This project covers various Python programming skills and concepts, including:
 - Drawing and moving objects on a Cartesian coordinate system
 - Changing colors, shapes, and pen behavior for custom graphics
 
-### 3. **Data Structures and Logic**
+#### 3. **Data Structures and Logic**
 - Using lists to track snake body segments
 - Implementing conditional statements for movement logic
 - Managing object positions and interactions
@@ -60,3 +60,8 @@ This project covers various Python programming skills and concepts, including:
 - Implement a restart feature after game over
 - Enhance graphics with custom sprites instead of `turtle` shapes
 - Introduce sound effects for interactions
+
+### Screenshots of the PySnake Game
+<img src="PySnake0.png" alt="Local Image" width="500">
+<img src="PySnake1.png" alt="Local Image" width="500">
+<img src="PySnake2.png" alt="Local Image" width="500">
